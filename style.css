@@ -1,3 +1,15 @@
-.orange {
+h1 {
   color: #e68a00;
+}
+
+body {
+  font-family: "Helvetica Neue";
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #2a71b0;
 }
